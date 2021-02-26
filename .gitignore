@@ -1,0 +1,7 @@
+*.exe
+*.obj
+
+*\bin
+*\obj
+
+sh.exe.stackdump
